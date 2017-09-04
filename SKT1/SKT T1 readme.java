@@ -1,4 +1,0 @@
-
-
-getlayout();
-add java code;
